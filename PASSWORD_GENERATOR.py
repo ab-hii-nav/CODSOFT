@@ -1,5 +1,5 @@
 import random #this module used to generate random numbers
-import math
+import math #extends the list of mathematical functions
 
 def generate_password(length):
     password = ""
